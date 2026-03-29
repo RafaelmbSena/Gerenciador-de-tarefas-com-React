@@ -1,8 +1,59 @@
-# React + Vite
+# 🚀 Gerenciador de Tarefas com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido com o objetivo de praticar e aprimorar meus conhecimentos em React.
 
-Currently, two official plugins are available:
+📚 Projeto criado durante meus estudos no curso da Full Stack Club, com foco em desenvolvimento front-end e construção de interfaces modernas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🧠 Objetivo
+
+O principal objetivo deste projeto é colocar em prática conceitos importantes do React, como:
+
+- Componentização
+- Manipulação de estado
+- Renderização dinâmica
+- Organização de código
+- Boas práticas de desenvolvimento
+
+---
+
+## ⚙️ Funcionalidades
+
+- ✅ Adicionar tarefas
+- 📝 Editar tarefas
+- ❌ Remover tarefas
+- 📋 Listar tarefas
+- 🔄 Atualização dinâmica da interface
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## 📸 Preview
+
+*(adicione um print aqui futuramente do seu projeto rodando)*
+
+---
+
+## ▶️ Como rodar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/RafaelmbSena/Gerenciador-de-tarefas-com-React.git
+
+# Acesse a pasta
+cd Gerenciador-de-tarefas-com-React
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+npm run dev
