@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido com o objetivo de praticar e aprimorar meus conhecimentos em React.
 
-📚 Projeto criado durante meus estudos no curso da Full Stack Club, com foco em desenvolvimento front-end e construção de interfaces modernas.
+📚 Projeto criado durante meus estudos no curso da Full Stack Club, com foco em desenvolvimento full stack.
 
 ---
 
@@ -33,13 +33,14 @@ O principal objetivo deste projeto é colocar em prática conceitos importantes 
 - React
 - JavaScript
 - HTML5
-- CSS3
+- Tailwind CSS
 
 ---
 
 ## 📸 Preview
 
-*(adicione um print aqui futuramente do seu projeto rodando)*
+![alt text](image.png)
+
 
 ---
 
